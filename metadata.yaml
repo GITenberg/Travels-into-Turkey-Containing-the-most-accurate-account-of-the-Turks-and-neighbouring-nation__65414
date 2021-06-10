@@ -1,5 +1,5 @@
 _repo: Travels-into-Turkey-Containing-the-most-accurate-account-of-the-Turks-and-neighbouring-nation__65414
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Bayle, Pierre
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '53329'
     url: http://www.gutenberg.org/2009/agents/53329
     wikipedia: https://fr.wikipedia.org/wiki/Pierre_Bayle
+covers:
+- cover_type: archival
+  image_path: 65414-h/images/cover.jpg
 creator:
   author:
     agent_name: Busbecq, Ogier Ghislain de
@@ -28,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/47467
     wikipedia: https://en.wikipedia.org/wiki/Ogier_Ghiselin_de_Busbecq
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65414#Travels-into-Turkey-Containing-the-most-accurate-account-of-the-Turks-and-neighbouring-nation_
 gutenberg_issued: '2021-05-22'
 gutenberg_type: Text
 identifiers:
