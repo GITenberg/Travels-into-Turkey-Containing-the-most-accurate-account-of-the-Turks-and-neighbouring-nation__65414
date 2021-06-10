@@ -1,0 +1,48 @@
+_repo: Travels-into-Turkey-Containing-the-most-accurate-account-of-the-Turks-and-neighbouring-nation__65414
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Bayle, Pierre
+    aliases:
+    - Bayle, Monsieur (Pierre)
+    - Bayle, Peter
+    birthdate: 1647
+    deathdate: 1706
+    gutenberg_agent_id: '53329'
+    url: http://www.gutenberg.org/2009/agents/53329
+    wikipedia: https://fr.wikipedia.org/wiki/Pierre_Bayle
+creator:
+  author:
+    agent_name: Busbecq, Ogier Ghislain de
+    aliases:
+    - Busbeck, Ogier Ghislain de
+    - De Busbecq, Ogier Ghislain
+    - Bousbecq, Ogier Ghislain de
+    - Busbequius, Augerius Gislenius
+    - Bousebecque, Ogier Ghislain de
+    - Busbequs, Augerus Gislenus
+    - Busbequius, A. G. (Augerius Gislenius)
+    birthdate: 1522
+    deathdate: 1592
+    gutenberg_agent_id: '47467'
+    url: http://www.gutenberg.org/2009/agents/47467
+    wikipedia: https://en.wikipedia.org/wiki/Ogier_Ghiselin_de_Busbecq
+description: ''
+gutenberg_issued: '2021-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65414'
+  lccn: '72204208'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Turkey -- Description and travel -- Early works to 1800'
+- !lcc 'DR'
+- GITenberg
+title: 'Travels into Turkey
+
+  Containing the most accurate account of the Turks, and neighbouring nations, their
+  manners, customs, religion, superstition, policy, riches, coins, &c.'
+url: http://www.gutenberg.org/ebooks/65414
